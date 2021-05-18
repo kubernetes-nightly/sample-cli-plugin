@@ -344,7 +344,7 @@
 		},
 		{
 			"ImportPath": "github.com/google/go-cmp",
-			"Rev": "v0.5.4"
+			"Rev": "v0.5.2"
 		},
 		{
 			"ImportPath": "github.com/google/gofuzz",
@@ -872,7 +872,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/sys",
-			"Rev": "d19ff857e887"
+			"Rev": "a50acf3fe073"
 		},
 		{
 			"ImportPath": "golang.org/x/term",
@@ -960,19 +960,19 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "723105c8cc31"
+			"Rev": "68885aec340f"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "45254c4075bb"
+			"Rev": "f9ee59ae44f1"
 		},
 		{
 			"ImportPath": "k8s.io/cli-runtime",
-			"Rev": "b7788cdcb83c"
+			"Rev": "6fff10b0f9b9"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "ca14fd0411af"
+			"Rev": "905d73c39739"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
